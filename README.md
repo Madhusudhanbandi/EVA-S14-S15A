@@ -22,7 +22,9 @@ Foreground images - Std of RGBA channels is: [ 53.45716788  56.41516636  65.6862
 Mask images - Means of mask images is: [78.30467003]
 Mask images - Std of mask images is: [115.14415228]
 
-3.Images
+3.Custom datasets images
+
+![S15A_Images](https://user-images.githubusercontent.com/19210895/81504079-010d7480-9305-11ea-977a-1dcded249230.JPG)
 
 4.Steps followed to create custom datasets 
 4.1.Foreground images were created by removing the background using powerpoint and random flips of 100 foreground images were created(total of 200 foreground with transparent background were created)
